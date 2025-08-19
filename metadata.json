@@ -1,0 +1,5 @@
+{
+  "name": "Cronómetro React",
+  "description": "Una aplicación de cronómetro simple y elegante construida con React y Tailwind CSS. Permite iniciar, detener y reiniciar el tiempo con precisión.",
+  "requestFramePermissions": []
+}
